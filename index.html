@@ -159,9 +159,20 @@
     <script>
       const menu = document.querySelector('.menu');
       const burguerButton = document.getElementById('#burguer-menu');
-      console.log(burguerButton);
-      
+      const ipad = window.matchMedia('screen and (max-width: 767px)');
       burguerButton.addEventListener('click', hideShow)
+
+      ipad.addListener(validation)
+      function validation(event){
+        if(event.matches){
+          console.log('pija');
+            burguerButton.addEventListener('click', hideShow)
+        }else{
+          console.log('pija');
+
+          burguerButton.removeEventListener('click', hideShow)
+        }
+      }
 
       function hideShow(){
         if(menu.classList.contains('is-active')){
