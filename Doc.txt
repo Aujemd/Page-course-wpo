@@ -9,3 +9,8 @@ static-server en el root del proyecto
 para comprimir hojas de estilo
 
 https://csscompressor.com/
+
+link para generar el critical css
+
+recordar arreglar el issue de las fonts 
+la ruta de ../fonts debe ser /fonts
