@@ -1,3 +1,7 @@
 www.mediaqueri.es dise�os responsives para ver
 
 icon mon iconos chidos
+
+npm i -g static-server servidor de archivos estáticos
+para encender 
+static-server en el root del proyecto
