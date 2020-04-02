@@ -14,3 +14,18 @@ link para generar el critical css
 
 recordar arreglar el issue de las fonts 
 la ruta de ../fonts debe ser /fonts
+
+Optimizar imagenes
+
+https://resizeimage.net/
+
+https://tinypng.com/
+
+en resizeimage 
+
+acomodarle el crop a las medias que van a hacer usadas
+por la imagen
+
+acomodar el selection type y selection area
+
+RECORDAR PASAR A PNG
