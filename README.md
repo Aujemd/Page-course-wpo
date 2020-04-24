@@ -1,2 +1,1 @@
-# desarrollo-web-portafolio
-Proyecto realizado 
+# Repositorio del curso de WPO de Platzi :rocket:
